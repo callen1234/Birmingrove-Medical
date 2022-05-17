@@ -1,0 +1,25 @@
+body{
+display: grid;
+background-color: rgb(171, 201, 235);
+text-align: center;
+}
+.female img{
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+}
+
+.box {
+  display: grid;
+  border: solid 150px white;
+  height: 290px;
+  width: 825px;
+  background-color: white;
+  margin-top: 2.5vh;
+  border-radius: 25px;
+}
+.bluebox{
+  display: grid;
+  place-items: center;
+  align-items: center;
+}
